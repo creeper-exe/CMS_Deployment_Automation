@@ -1,2 +1,12 @@
-# CMS_Deployment_Automation
+# CMS Deployment Automation
+
+To run the deployment script follow this steps
+
+git clone https://github.com/creeper-exe/CMS_Deployment_Automation/tree/main
+
+cd CMS_Deployment_Automation
+
+sudo ./deployment.sh
+
+
  

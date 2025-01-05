@@ -8,5 +8,7 @@ cd CMS_Deployment_Automation
 
 sudo ./deployment.sh
 
+Now you wait till the deployment is complete then you can open the browser and visit the local host on port 443 to view the website
+
 
  
